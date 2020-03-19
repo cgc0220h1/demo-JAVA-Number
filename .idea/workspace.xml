@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2924ab29-79a5-4295-b7da-261feb1a7631" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-JAVA-Number/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-JAVA-Number/Number.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584616390673</updated>
-      <workItem from="1584616393447" duration="5178000" />
+      <workItem from="1584616393447" duration="5328000" />
+      <workItem from="1584631669615" duration="4256000" />
     </task>
     <servers />
   </component>
@@ -71,45 +72,82 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="829" y="167" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1584626889089" />
-    <state width="831" height="213" key="GridCell.Tab.0.bottom" timestamp="1584629616404">
+    <state x="879" y="175" key="FileChooserDialogImpl" timestamp="1584629767158">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584629616404" />
-    <state width="831" height="213" key="GridCell.Tab.0.center" timestamp="1584629616404">
+    <state x="879" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584629767158" />
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1584636407271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584629616404" />
-    <state width="831" height="213" key="GridCell.Tab.0.left" timestamp="1584629616404">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584636407271" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1584636407271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584629616404" />
-    <state width="831" height="213" key="GridCell.Tab.0.right" timestamp="1584629616404">
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584636407271" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1584636407271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584629616404" />
-    <state width="831" height="265" key="GridCell.Tab.1.bottom" timestamp="1584629577091">
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584636407271" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1584636407271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584629577091" />
-    <state width="831" height="265" key="GridCell.Tab.1.center" timestamp="1584629577091">
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584636407271" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1584635906653">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1584629577091" />
-    <state width="831" height="265" key="GridCell.Tab.1.left" timestamp="1584629577091">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584635906653" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1584635906653">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1584629577091" />
-    <state width="831" height="265" key="GridCell.Tab.1.right" timestamp="1584629577091">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1584635906653" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1584635906653">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="831" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584629577091" />
-    <state x="914" y="354" key="ReplaceDuplicatesPrompt" timestamp="1584626905806">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1584635906653" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1584635906653">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="914" y="354" key="ReplaceDuplicatesPrompt/0.0.1536.834@0.0.1536.834" timestamp="1584626905806" />
-    <state x="829" y="176" width="538" height="495" key="extract.method.dialog" timestamp="1584626902271">
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584635906653" />
+    <state x="914" y="354" key="ReplaceDuplicatesPrompt" timestamp="1584633229950">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="829" y="176" width="538" height="495" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1584626902271" />
+    <state x="914" y="354" key="ReplaceDuplicatesPrompt/0.0.1536.834@0.0.1536.834" timestamp="1584633229950" />
+    <state x="330" y="153" width="876" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584635346903">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="330" y="153" width="876" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1584635346903" />
+    <state x="829" y="176" width="538" height="495" key="extract.method.dialog" timestamp="1584633221815">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="829" y="176" width="538" height="495" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1584633221815" />
+    <state x="418" y="41" key="new project wizard" timestamp="1584631875410">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="418" y="41" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1584631875410" />
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1584635713811">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1584635713811" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Number.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Number.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Number.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
