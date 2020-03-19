@@ -11,7 +11,7 @@ public class Number {
         int ones = 0;
 
         if (number >= 0) {
-            if (number < 10) {
+            if (number <= 10) {
                 switch (number) {
                     case 0:
                         result = "zero";
