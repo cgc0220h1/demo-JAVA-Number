@@ -49,7 +49,7 @@ public class Number {
                     default:
                         result = "out of ability";
                 }
-            } else if (number <= 20) {
+            } else if (number < 20) {
                 switch (number) {
                     case 11:
                         result = "eleven";
@@ -77,9 +77,6 @@ public class Number {
                         break;
                     case 19:
                         result = "nineteen";
-                        break;
-                    case 20:
-                        result = "twenty";
                         break;
                     default:
                         result = "out of ability";
