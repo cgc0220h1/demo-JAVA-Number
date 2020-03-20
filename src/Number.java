@@ -100,6 +100,9 @@ public class Number {
                 }
                 switch (ones) {
                     case 0:
+                        if (hundreds == 0 & tens == 0) {
+                            result += "zero";
+                        }
                         break;
                     case 1:
                         result += "one";
@@ -170,6 +173,11 @@ public class Number {
                 }
             }
         }
+
+        if (!isLowerThan1000) {
+            result += "out of ability";
+        }
+
         System.out.printf("The number %d is read: %s", number, result);
     }
 }
